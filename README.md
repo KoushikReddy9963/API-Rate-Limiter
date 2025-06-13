@@ -37,9 +37,4 @@ graph TD
     B -->|429 Error| D[Too Many Requests]
 ```
 
-## Notes
-- This is for demonstration and development/testing only. For production, consider distributed rate limiting solutions.
-
----
-
 **Author: Y sai koushik reddy**
